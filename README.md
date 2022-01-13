@@ -6,7 +6,9 @@ Une application de chat vidéo React utilisant WebRTC
 
 ## Les commandes
 
-#### Pour démarrer le serveur (api): 
+#### Exécutez `npm i` dans le côté client et côté serveur.
+
+#### Pour démarrer le serveur (api):
 
 ```
 npm start
@@ -18,7 +20,7 @@ ou
 nodemon index.js
 ```
 
-#### Pour démarrer le serveur (client): 
+#### Pour démarrer le serveur (client):
 
 ```
 npm start
