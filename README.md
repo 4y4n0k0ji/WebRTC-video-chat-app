@@ -1,18 +1,18 @@
-##  WebRTC Video Chat App
+## WebRTC Video Chat App
 
 ## Description
 
-Une application de chat vidéo React utilisant WebRTC
+Une application de chat vidéo React utilisant WebRTC.
 
 ## Les commandes
 
-#### Pour installer les dépendances dans le côté client et côté serveur.
+#### Pour installer les dépendances dans le côté client et côté serveur :
 
 ```
 npm install
 ```
 
-#### Pour démarrer le serveur (api):
+#### Pour démarrer le serveur (api) :
 
 ```
 npm start
@@ -24,7 +24,7 @@ ou
 nodemon index.js
 ```
 
-#### Pour démarrer le serveur (client):
+#### Pour démarrer le serveur (client) :
 
 ```
 npm start
@@ -32,14 +32,16 @@ npm start
 
 ## Screens
 
-### Vous devez activer le microphone et la caméra 
+### Vous devez activer le microphone et la caméra
 
-![](https://user-images.githubusercontent.com/74680833/148701975-9ac72c6f-9416-4c46-b90b-0acf877c463a.PNG)
+![](https://user-images.githubusercontent.com/74680833/149411689-95891e91-e606-4a7b-b6e0-779e28c1c887.png)
 
-![](https://user-images.githubusercontent.com/74680833/148701973-4884a31a-aa67-4466-9af2-9c9bece9e3df.PNG)
+#### Copier l'identifiant de l'utilisateur 2 Pour l'appeler :
 
-![](https://user-images.githubusercontent.com/74680833/148701974-158068e9-dd53-4077-9d22-e9bc172bae3a.PNG)
+![](https://user-images.githubusercontent.com/74680833/149411944-31cfd9f8-a38f-4fb9-98d0-7a3b11e40638.png)
 
-![](https://user-images.githubusercontent.com/74680833/148701976-af470d08-705a-4493-8d66-2069d3332da5.PNG)
+![](https://user-images.githubusercontent.com/74680833/149412016-910aec36-f165-48bf-bc53-edb3e6b926e3.png)
 
-![](https://user-images.githubusercontent.com/74680833/148701977-6834925d-9cb0-4532-a9a9-a071733a9714.PNG)
+#### Répondre à l'appel de l'utilisateur 1 : 
+
+![](https://user-images.githubusercontent.com/74680833/149412089-15bac3e3-ce4b-431c-a086-f27c62a678e6.png)
