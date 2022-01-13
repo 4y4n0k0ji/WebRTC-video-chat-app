@@ -1,4 +1,4 @@
-# video-chat-app
+##  WebRTC Video Chat App
 
 ## Description
 
