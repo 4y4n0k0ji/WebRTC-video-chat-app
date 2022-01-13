@@ -6,7 +6,11 @@ Une application de chat vidéo React utilisant WebRTC
 
 ## Les commandes
 
-#### Exécutez `npm i` dans le côté client et côté serveur.
+#### Pour installer les dépendances dans le côté client et côté serveur.
+
+```
+npm install
+```
 
 #### Pour démarrer le serveur (api):
 
